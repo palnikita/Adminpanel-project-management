@@ -10,7 +10,7 @@
             <nav class="sidebar-nav left-sidebar-menu-pro">
                 <ul class="metismenu" id="menu1">
                     <li>
-                        <a title="Landing Page" href="events.html" aria-expanded="false"><span><i
+                        <a title="Landing Page" href="{{ route('index')}}" aria-expanded="false"><span><i
                                     class="fa-solid fa-grip"></i></span> <span
                                 class="mini-click-non">Dashboard</span></a>
                     </li>
